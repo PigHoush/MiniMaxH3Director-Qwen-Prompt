@@ -1,6 +1,6 @@
 # MiniMax H3 Director (Qwen Prompt)
 
-基于 [MiniMax H3 Director](https://github.com/) 导演台的 fork，整合本地 Qwen3.8-27B-VL GGUF 提示词优化器。
+基于 [AIMixer/ComfyUI_MiniMaxH3_Director](https://github.com/AIMixer/ComfyUI_MiniMaxH3_Director) 导演台的 fork，整合本地 Qwen3.8-27B-VL GGUF 提示词优化器。
 
 ## 这是什么
 
@@ -19,7 +19,7 @@
 
 ### 前置
 - 已安装 [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-- 已安装 [MiniMax H3 Director](https://github.com/) 导演台节点
+- 已安装 [MiniMax H3 Director](https://github.com/AIMixer/ComfyUI_MiniMaxH3_Director) 导演台节点
 - 需要 llama.cpp 支持的 Qwen GGUF 模型
 
 ### 步骤
@@ -43,5 +43,5 @@
 
 ## 致谢
 
-- 原导演台：MiniMax H3 Director
+- 原导演台：[AIMixer/ComfyUI_MiniMaxH3_Director](https://github.com/AIMixer/ComfyUI_MiniMaxH3_Director)
 - 提示词引擎：Qwen3.8 / llama.cpp
