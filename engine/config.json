@@ -1,0 +1,14 @@
+{
+  "package_dir": "D:\\MiniMaxH3Director-Qwen-Prompt\\engine\\vendor",
+  "model_dirs": [
+    "D:\\MiniMaxH3Director-Qwen-Prompt\\engine\\models"
+  ],
+  "local_model": "Q38-27B-G-UD/Qwen3.8-27B-UD-Q3_K_XL.gguf",
+  "local_mmproj": "Q38-27B-G-UD/mmproj-Qwen3.8-27B-F16.gguf",
+  "task": "T2VA",
+  "duration": 10,
+  "output_language": "中文",
+  "max_tokens": 4096,
+  "image_max_edge": 1280,
+  "out_dir": "D:\\MiniMaxH3Director-Qwen-Prompt\\engine\\输出"
+}

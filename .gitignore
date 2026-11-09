@@ -1,0 +1,34 @@
+# Python 环境
+python/
+
+# ComfyUI 核心
+ComfyUI/*
+!ComfyUI/custom_nodes/
+ComfyUI/custom_nodes/*
+!ComfyUI/custom_nodes/ComfyUI_MiniMaxH3Director_QwenPrompt/
+!ComfyUI/custom_nodes/ComfyUI_H3PromptOptimizer/
+
+# 模型和用户数据
+ComfyUI/models/
+ComfyUI/user/
+ComfyUI/input/
+ComfyUI/output/
+engine/models/
+*.gguf
+*.safetensors
+*.ckpt
+*.pth
+*.bin
+*.pt
+
+# 运行时输出
+输出/
+*.tmp
+*.log
+__pycache__/
+*.pyc
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
