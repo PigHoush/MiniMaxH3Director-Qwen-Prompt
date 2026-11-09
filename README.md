@@ -2,6 +2,8 @@
 
 基于 [AIMixer/ComfyUI_MiniMaxH3_Director](https://github.com/AIMixer/ComfyUI_MiniMaxH3_Director) 导演台的 fork，整合本地 Qwen3.8-27B-VL GGUF 提示词优化器。
 
+> **配套独立节点**：本仓库的 Qwen 提示词优化核心已抽离为独立 ComfyUI 节点 → [MiniMaxH3-Prompt-Optimizer](https://github.com/PigHoush/MiniMaxH3-Prompt-Optimizer)
+
 ## 这是什么
 
 在 MiniMax H3 Director 导演台的提示词框旁边加了一排 Qwen 优化按钮，不用切到外部工具，直接在导演台里一键把大白话润色成 H3 规范提示词。
