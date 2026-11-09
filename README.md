@@ -2,7 +2,7 @@
 
 基于 [AIMixer/ComfyUI_MiniMaxH3_Director](https://github.com/AIMixer/ComfyUI_MiniMaxH3_Director) 导演台的 fork，整合本地 Qwen3.8-27B-VL GGUF 提示词优化器。
 
-> **配套独立节点**：本仓库的 Qwen 提示词优化核心已抽离为独立 ComfyUI 节点 → [MiniMaxH3-Prompt-Optimizer](https://github.com/PigHoush/MiniMaxH3-Prompt-Optimizer)
+> **上游来源**：本仓库的 Qwen 提示词优化功能源自独立节点 [MiniMaxH3-Prompt-Optimizer](https://github.com/PigHoush/MiniMaxH3-Prompt-Optimizer)
 
 ## 这是什么
 
